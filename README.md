@@ -1,5 +1,6 @@
 # machine-learning-a-z-iaexpert
 Desafios realizados curso de Machine Learning e Data Science com Python de A à Z
+
 ## Requisitos
 - O único pré-requisito obrigatório é conhecimento sobre lógica de programação, principalmente estruturas condicionais e de repetição
 - Conhecimentos em Python não são obrigatórios
