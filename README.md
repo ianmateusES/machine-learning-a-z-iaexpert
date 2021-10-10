@@ -1,8 +1,9 @@
 # machine-learning-a-z-iaexpert
-Desafios realizados curso de Machine Learning e Data Science com Python de A à Z
+Desafios realizados curso de Machine Learning e Data Science com Python de A à Z.
+
 ## Requisitos
-- O único pré-requisito obrigatório é conhecimento sobre lógica de programação, principalmente estruturas condicionais e de repetição
-- Conhecimentos em Python não são obrigatórios
+- O único pré-requisito obrigatório é conhecimento sobre lógica de programação, principalmente estruturas condicionais e de repetição;
+- Conhecimentos em Python não são obrigatórios.
 
 ## Descrição
 A área de Machine Learning (Aprendizagem de Máquina) e Data Science (Ciência de Dados) é atualmente um dos campos de trabalho mais relevantes da Inteligência Artificial, sendo responsável pela utilização de algoritmos inteligentes que tem a função de fazer com que os computadores aprendam por meio de bases de dados. O mercado de trabalho de Machine Learning nos Estados Unidos e em vários países da Europa está em grande ascensão; e a previsão é que no Brasil cada vez mais esse tipo de profissional seja requisitado! Inclusive alguns estudos apontam que o conhecimento dessa área será em breve um pré-requisito para os profissionais de Tecnologia da Informação! E dentro deste contexto está o cientista de dados, que já foi classificado como o trabalho “número 1” por vários veículos da mídia internacional.
